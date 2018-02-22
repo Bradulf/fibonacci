@@ -1,5 +1,4 @@
-// fibonacci.cpp : Defines the entry point for the console application.
-//
+// fibonacci :)
 
 #include "stdafx.h"
 #include<iostream>
